@@ -3,7 +3,7 @@ package hackerrank.datastructures.stacks;
 import java.util.Stack;
 
 /**
- * Created by nikoo28 on 9/13/20 6:27 PM
+ * Created by Swati ( Cumulative sum of stacks Approach) 
  */
 
 public class EqualStacks {
